@@ -1,0 +1,124 @@
+{
+  "menu": [
+    {
+      "name": "Ergonomic Mesh Chair",
+      "price": "$80",
+      "quantity": "Comfortable mesh back with lumbar support and adjustable height.",
+      "menuid":"0",
+      "img":"/Asset/ErgonomicMeshChair.webp"
+    },
+    {
+      "name": "Executive Leather Chair",
+      "price": "$120",
+      "quantity": "High-back leather chair with padded armrests and tilt rol.",
+      "menuid":"0",
+      "img":"/Asset/ExecutiveLeatherChai.jpg"
+    },
+    {
+      "name": "Foldable Study Chair",
+      "price": "$45",
+      "quantity": "Lightweight and foldable chair ideal for study and compact spaces.",
+      "menuid":"0",
+      "img":"/Asset/FoldableStudyChair.jpg"
+    },
+    {
+      "name": "Recliner Office Chair",
+      "price": "$150",
+      "quantity": "Reclining office chair with footrest and breathable mesh fabric.",
+      "menuid":"0",
+      "img":"/Asset/ReclinerOfficeChair.jpg"
+    },
+    {
+      "name": "Wooden Dining Chair",
+      "price": "$60",
+      "quantity": "Solid wood frame with cushioned seat, perfect for dining setup.",
+      "menuid":"0",
+      "img":"/Asset/WoodenDiningChair.avif"
+    },
+    {
+      "name": "Single Bed with Storage",
+      "price": "$220",
+      "quantity": "Compact single bed with hydraulic storage and sturdy wooden build.",
+      "menuid":"2",
+      "img":"/Asset/SingleBedwithStorage.webp"
+    },
+    {
+      "name": "Queen Size Bed",
+      "price": "$350",
+      "quantity": "Spacious queen bed with solid frame and elegant headboard design.",
+      "menuid":"2",
+      "img":"/Asset/QueenSizeBed.webp"
+    },
+    {
+      "name": "Bunk Bed for Kids",
+      "price": "$400",
+      "quantity": "Fun and safe bunk bed with ladder, ideal for kids’ shared rooms.",
+      "menuid":"2",
+      "img":"/Asset/BunkedforKids.jpg"
+    },
+    {
+      "name": "3-Seater Fabric Sofa",
+      "price": "$300",
+      "quantity": "Spacious and cozy 3-seater sofa with soft fabric and wooden legs.",
+      "menuid":"1",
+      "img":"/Asset/SeaterFabricSofa.webp"
+    },
+    {
+      "name": "L-Shaped Corner Sofa",
+      "price": "$550",
+      "quantity": "Modern L-shape design with plush cushions and space-saving layout.",
+      "menuid":"1",
+      "img":"/Asset/L-ShapedCornerSofa.webp"
+    },
+    {
+      "name": "Recliner Sofa Chair",
+      "price": "$250",
+      "quantity": "One-seater recliner sofa with adjustable back and leg support.",
+      "menuid":"1",
+      "img":"/Asset/ReclinerSofaChair.webp"
+    },
+    {
+      "name": "Wooden Frame Sofa Set",
+      "price": "$450",
+      "quantity": "Traditional wooden sofa set with cushioned seats and classic finish.",
+      "menuid":"1",
+      "img":"/Asset/WoodenFrameofaet.jpg"
+    },
+    {
+      "name": "Sofa Cum Bed",
+      "price": "$400",
+      "quantity": "Convertible sofa that easily transforms into a bed, ideal for guests.",
+      "menuid":"1",
+      "img":"/Asset/SofaCumBed.jpg"
+    },
+    {
+      "name": "2-Seater Leather Sofa",
+      "price": "$350",
+      "quantity": "Compact leather sofa with sleek design, perfect for small living rooms.",
+      "menuid":"1",
+      "img":"/Asset/SeaterLeatherSofa.webp"
+    },
+    {
+      "name": "Indoor Wooden Jhula",
+      "price": "$300",
+      "quantity": "Polished teak wood swing with strong chains and elegant backrest.",
+      "menuid":"5",
+      "img":"/Asset/IndoorWoodenJhula.jpg"
+    },
+    {
+      "name": "Hammock Style Jhula",
+      "price": "$180",
+      "quantity": "Comfortable cotton rope swing for indoor or balcony use.",
+      "menuid":"5",
+      "img":"/Asset/HammockStyleJhula.jpg"
+    },
+    {
+      "name": "Modern TV Unit",
+      "price": "$280",
+      "quantity": "Stylish wooden TV unit with open shelves and drawers for storage.",
+      "menuid":"4",
+      "img":"/Asset/ModernTVUnit.jpg"
+    }
+
+  ]
+}

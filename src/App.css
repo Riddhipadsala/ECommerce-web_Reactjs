@@ -1,0 +1,27 @@
+.card{
+  width: 300px;
+  margin: 100px;
+  padding: 50px 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 20px;
+}
+
+.input{
+  padding: 10px;
+  font-size: 15px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn{
+  padding: 10px 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border: none;
+  border-radius: 20px;
+  margin:10px 30px;
+}
+
+.content{
+  padding: 0px 20px;
+}

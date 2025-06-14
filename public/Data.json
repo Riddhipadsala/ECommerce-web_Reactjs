@@ -1,0 +1,35 @@
+{
+  "cdata": [
+    {
+      "img": "/Chair.jpg",
+      "title": "Chair",
+      "price": "range $45 - $150"
+    },
+    {
+      "img": "/Sofa.jpg",
+      "title": "Sofa",
+      "price": "range $250 - $550"
+    },
+    {
+      "img": "/Bed.jpg",
+      "title": "Bed",
+      "price": "range $220 - $400"
+    },
+    {
+      "img": "/Dinnertable.jpg",
+      "title": "Dining Table",
+      "price": "$300"
+    },
+
+        {
+      "img": "/Tvunit.jpg",
+      "title": "TV Unit",
+      "price": "range $0 - $280"
+    }  ,  
+    {
+      "img": "/Jhula.jpg",
+      "title": "Jhula",
+      "price": "range $180 - $300"
+    }
+  ]
+}

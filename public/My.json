@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Cafe Mocha",
+    "price": 2000
+  },
+  {
+    "title": "Brew & Bite",
+    "price": 2500
+  },
+  {
+  "title": "Cafe Mocha",
+  "price": 2000
+},
+{
+  "title": "Brew & Bite",
+  "price": 2500
+},
+{
+  "title": "Latte Lounge",
+  "price": 1800
+},
+{
+  "title": "The Coffee Spot",
+  "price": 2200
+},
+{
+  "title": "Bean Scene",
+  "price": 2100
+},
+{
+  "title": "Sip & Sit",
+  "price": 2300
+},
+{
+  "title": "Java Junction",
+  "price": 2400
+},
+{
+  "title": "Cafe Bliss",
+  "price": 1900
+},
+{
+  "title": "Daily Grind",
+  "price": 2600
+},
+{
+  "title": "Espresso Edge",
+  "price": 2000
+}
+  
+]
