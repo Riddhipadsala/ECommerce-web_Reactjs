@@ -1,0 +1,13 @@
+button{
+  padding: 10px 30px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.fb{
+  background-color: green;
+}
+
+.sb{
+  background-color: red;
+}
