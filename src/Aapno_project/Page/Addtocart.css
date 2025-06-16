@@ -30,7 +30,7 @@
 }
 
 .last {
-  width: 100%;
+  width: 750px;
   display:flex;
   align-items:center;
   justify-content:space-between;
